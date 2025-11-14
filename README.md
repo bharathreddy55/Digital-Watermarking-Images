@@ -22,13 +22,6 @@ NumPy, OpenCV
 
 Jupyter Notebook for demos & experimentation
 
-## 📂 Project Structure
-Digital_Watermarking_System/
-│── embed.py           # Embed watermark into image
-│── extract.py         # Extract watermark
-│── utils.py           # Helpers: image loading, conversion, etc.
-│── samples/           # Test images & watermarks
-│── Digital_Watermarking_Systems.ipynb  # Notebook demo
 
 ## 🔥 How It Works
 
